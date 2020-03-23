@@ -1,0 +1,30 @@
+<head>
+<title>First render</title>
+
+ <style>
+   body{
+     text-align: center;
+      background-color: black;
+   }
+   p {font-size: 32px; color:White;}
+
+</style>
+</head>
+
+<body>
+<p style="text-align:center;">Nothing here yet, so here's a picture of a cute fox, <br> and maybe clem as well because clems always nice.</p>
+<div class="box">
+  <img src="Dayone.png" alt="First Render">
+  <p style="color: gray;">First render</p>
+  <img src="DayoneVersion2.png" alt="First Render Bloom">
+  <p style="color: gray;">First Render With bloom</p>
+</div>
+
+
+
+
+
+</body>
+
+
+</html>
